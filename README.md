@@ -2,9 +2,7 @@
 #### https://job-portal-site.vercel.app/
  - don't forget to leave a star ! :)
 
-## Authors
 
-- [Mohammed Aman](https://www.github.com/beastaman)
 
 ## Features
 
