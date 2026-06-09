@@ -74,11 +74,6 @@ MongoDB,
 ![image](https://user-images.githubusercontent.com/90745903/235368363-0fd4d1d4-e7ef-4202-b764-fc16f5185723.png)
 
 
-#### search Job based on tags
-![image](https://user-images.githubusercontent.com/90745903/235368398-2b9f560c-faf9-43e8-9404-39da691bfb40.png)
-
-
-
 
 #### login Page
 ![image](https://user-images.githubusercontent.com/90745903/223760826-3b23f677-f6f1-4740-9859-a7de7795cd09.png)
